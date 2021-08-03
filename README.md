@@ -4,8 +4,8 @@ Prerequisites Java (SE 1.8) Maven 3.3.1
 
 Run the Runner.java class, user will receive the following prompt:
 
-Hello and welcome to the Zendesk ticket viewer!
-Please type menu to view the menu, or q to quit the program: 
+"Hello and welcome to the Zendesk ticket viewer!
+Please type menu to view the menu, or q to quit the program: " 
 
 
 user must type "menu" to display menu or "q" to quit the program
